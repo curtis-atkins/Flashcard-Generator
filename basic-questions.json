@@ -1,0 +1,30 @@
+[
+
+{"frontCard":"Wat is the tallest building in the United States?",
+"backCard": "one world trade center",
+"fullAnswer": "The One World Trade Center is the tallest builing in the United States."
+},
+
+{"frontCard": "What is the largest body of water in North America?",
+  "backCard": "lake superior",
+  "fullAnswer": "Lake Superior is the largest body of water in North America."
+},
+
+{"frontCard":"What is the name of the highest point of elevation in the Unites States?",
+  "backCard": "mt. mckinley",
+  "fullAnswer": "Mt. McKinley is the highest point of elevation in the United States."
+},
+
+{"frontCard":"What is the name of the richest company in the world?",
+  "backCard":"walmart",
+  "fullAnswer": "Walmart is the richest company in the world."
+
+},
+
+{
+  "frontCard":"What is the most expensive mass-produced car in the world, at $4.8 million?",
+  "backCard": "koenigsegg ccxr trevita",
+  "fullAnswer": "Koenigsegg CCXR Trevita is the most expensive mass-procduced car in the world, at $4.8 million."
+}
+
+]

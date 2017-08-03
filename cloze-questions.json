@@ -1,0 +1,28 @@
+[
+
+{"cloze": "one world trade center",
+"partial": "is the tallest building in the United States.",
+"fullAnswer": "The One World Trade Center is the tallest bulding in the United States."
+},
+
+{"cloze":"lake superior",
+"partial": "is the largest body of water in North America.",
+"fullAnswer": "Lake Superior is the largest body of water in North America."
+},
+
+{"cloze": "mt. mckinley",
+"partial": "is the highest point of elevation in the Unites States?.",
+"fullAnswer": "Mt. McKinley is the highest point of elevation in the United States."
+},
+
+{"cloze":"walmart",
+"partial": "is the name of the richest company in the world.",
+"fullAnswer": "Walmart is the name of the richest company in the world."
+},
+
+{"cloze":"koenigsegg ccxr trevita",
+"partial": "is the most expensive mass-produced car in the world, at $4.8 million.",
+"fullAnswer": "Koenigsegg CCXR Trevita is the most expensive mass-produced car in the world at $4.8 million."
+}
+
+]
